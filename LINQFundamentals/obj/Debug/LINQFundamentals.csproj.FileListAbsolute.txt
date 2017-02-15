@@ -1,0 +1,11 @@
+C:\Users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\LINQFundamentals\bin\Debug\LINQFundamentals.exe.config
+C:\Users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\LINQFundamentals\bin\Debug\LINQFundamentals.exe
+C:\Users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\LINQFundamentals\bin\Debug\LINQFundamentals.pdb
+C:\Users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\LINQFundamentals\obj\Debug\LINQFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\LINQFundamentals\obj\Debug\LINQFundamentals.exe
+C:\Users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\LINQFundamentals\obj\Debug\LINQFundamentals.pdb
+C:\Users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\LINQFundamentals\bin\Debug\Data\fuel.csv
+C:\Users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\LINQFundamentals\bin\Debug\Data\manufacturers.csv
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\LINQFundamentals\bin\Debug\LINQFundamentals.exe.config
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\LINQFundamentals\obj\Debug\LINQFundamentals.exe
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\LINQFundamentals\obj\Debug\LINQFundamentals.pdb

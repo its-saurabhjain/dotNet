@@ -1,0 +1,10 @@
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\bin\Debug\RepositoryAndUoW.exe.config
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\bin\Debug\RepositoryAndUoW.exe
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\bin\Debug\RepositoryAndUoW.pdb
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\obj\Debug\RepositoryAndUoW.csprojResolveAssemblyReference.cache
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\obj\Debug\RepositoryAndUoW.exe
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\obj\Debug\RepositoryAndUoW.pdb
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\bin\Debug\EntityFramework.dll
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\bin\Debug\EntityFramework.xml
+C:\Users\30197821\Documents\Visual Studio 2015\Projects\dotNet\RepositoryAndUoW\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetFundamentals", "dotNetFundamentals\dotNetFundamentals.csproj", "{186BF4CD-013B-47F2-BEDB-E67A7E9BA798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQFundamentals", "LINQFundamentals\LINQFundamentals.csproj", "{6D1F6348-7B1A-4F7C-89E0-60C90C85744C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryAndUoW", "RepositoryAndUoW\RepositoryAndUoW.csproj", "{062EEE42-BE1A-4C66-9ECD-63A140219A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186BF4CD-013B-47F2-BEDB-E67A7E9BA798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186BF4CD-013B-47F2-BEDB-E67A7E9BA798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186BF4CD-013B-47F2-BEDB-E67A7E9BA798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186BF4CD-013B-47F2-BEDB-E67A7E9BA798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1F6348-7B1A-4F7C-89E0-60C90C85744C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1F6348-7B1A-4F7C-89E0-60C90C85744C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1F6348-7B1A-4F7C-89E0-60C90C85744C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1F6348-7B1A-4F7C-89E0-60C90C85744C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062EEE42-BE1A-4C66-9ECD-63A140219A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062EEE42-BE1A-4C66-9ECD-63A140219A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062EEE42-BE1A-4C66-9ECD-63A140219A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062EEE42-BE1A-4C66-9ECD-63A140219A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

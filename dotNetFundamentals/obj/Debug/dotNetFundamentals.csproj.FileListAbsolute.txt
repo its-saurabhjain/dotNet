@@ -1,0 +1,6 @@
+c:\users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\dotNetFundamentals\bin\Debug\dotNetFundamentals.exe.config
+c:\users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\dotNetFundamentals\bin\Debug\dotNetFundamentals.exe
+c:\users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\dotNetFundamentals\bin\Debug\dotNetFundamentals.pdb
+c:\users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\dotNetFundamentals\obj\Debug\dotNetFundamentals.csprojResolveAssemblyReference.cache
+c:\users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\dotNetFundamentals\obj\Debug\dotNetFundamentals.exe
+c:\users\30197821\documents\visual studio 2015\Projects\dotNetFundamentals\dotNetFundamentals\obj\Debug\dotNetFundamentals.pdb
